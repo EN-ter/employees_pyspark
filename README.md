@@ -2,7 +2,8 @@
  You have been tasked by the HR department of a company to create a data pipeline that can take in employee data in a CSV format. Your responsibilities include  analyzing the data, applying any required transformations, and facilitating the extraction of valuable insights from the processed data.
 
 
- #Project Overview
+<b>#Project Overview</b>
+ 
  Create a DataFrame by loading data from a CSV file and apply transformations and actions using Spark SQL. This needs to be achieved by performing the following
  tasks:
  Task 1: Generate DataFrame from CSV data.
